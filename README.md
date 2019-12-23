@@ -2,11 +2,8 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
- > This intended to express  my coding skill. 
-
 
   
-
 * Ruby version
     ruby '2.3.3'
 
