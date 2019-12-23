@@ -8,17 +8,22 @@
 
 
 
-data  = Data.create([
-{name: 'Samuel Ogundiran' }
-{email:'samrey2018@gmail.com'}
-{position:  'Software Engineer position'}
-# //// Nested arrays.
-{urls: links = ['https://docs.google.com/presentation/d/1OkUWzwEq5TDJc55D2CRQPSHvwRCeALPnAoTLCMckKwU/edit?usp=sharing',
-       'http://techuture.com/',
-       'https://github.com/EPIC448/flightware' ,
-      'https://youtu.be/iWrwpJ7FjOI',]
-    }
+# plural of data is datum
 
-{comments:' Please give a snapshot of 10/10 candidate look like for this Role'}
+datas  = Datum.create([
+        {name: 'Samuel Ogundiran' },
+        {email:'samrey2018@gmail.com'},
+        {position:  'Software Engineer position'},
+        # //// Nested arrays.
+        {urls: %w{
+          https://docs.google.com/presentation/d/1OkUWzwEq5TDJc55D2CRQPSHvwRCeALPnAoTLCMckKwU/edit?usp=sharing
+              http://techuture.com/
+              https://github.com/EPIC448/flightware
+              https://youtu.be/iWrwpJ7FjOI }
+            },
+
+        {comments:' Please give a snapshot of 10/10 candidate look like for this Role'}
 
 ])
+
+

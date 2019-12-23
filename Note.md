@@ -1,4 +1,5 @@
  Lay out of the Project
+--no-test-framework
 
 Set data variable to valid JSON with the following
 
@@ -17,6 +18,7 @@ comment: String with any comment/request you might have (optional)
 
 
 Layout (all in strings)
+npote: plural of data is datum
 
  Data 
     name:
@@ -38,7 +40,10 @@ Layout (all in strings)
         sure what data type to use. 
   Video 1. min 55.
 
-
+>>>>>>>>>>>>>>>>>
+Notes: I can do something like this
+ days = %w{Monday Tuesday Wednesday Thursday Friday Saturday Sunday}
+=> ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
  
 
 
