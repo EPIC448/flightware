@@ -8,8 +8,7 @@
 
 
 
-# plural of data is datum
-
+# plural of data is datum10
 datas  = Datum.create([
         {name: 'Samuel Ogundiran' },
         {email:'samrey2018@gmail.com'},
@@ -22,7 +21,7 @@ datas  = Datum.create([
               https://youtu.be/iWrwpJ7FjOI }
             },
 
-        {comments:' Please give a snapshot of 10/10 candidate look like for this Role'}
+        {comments:' Please a details snapshot of  what a 10/10 candidate look like for this Role'}
 
 ])
 
