@@ -1,17 +1,31 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Project Title**
+FlightWare
 
-  
+![](https://media3.giphy.com/media/l3fZAk5uXjZtfGGHK/giphy.gif?cid=ecf05e47cda9db7f29470d9b1da6c31a296cf8cb5e2a31b6&rid=giphy.gif)
+
+**Motivation**
+
+**Build Status**
 * Ruby version
     ruby '2.3.3'
 
 
-* System dependencies
+
+**ScreenShots**
+
+**Code_Sample**
+
+**Tech/Framework used**
+  *Ruby version*
+   *System dependencies*
+
+   * System dependencies
     Runing bundle install will update the necessray gem files automaticlly
 
     [
+      
 gem 'rails', '~> 5.2.4'
 gem 'sqlite3'
 gem 'puma', '~> 3.11'
@@ -45,18 +59,7 @@ gem 'pry', '~> 0.12.2'
 
 
 
-    ]
-
-* Configuration
-
-* Database creation
-    there is no spec file for this app. 
-
-* Database initialization
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+**Installation**
 
 . Using a terminal of your chosing, navigate to where App is downloaded in your local machine.
 .Once in the file, type in =>  rails s {to start the rails serve}

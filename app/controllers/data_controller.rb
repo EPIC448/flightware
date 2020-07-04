@@ -3,7 +3,6 @@ class DataController < ApplicationController
    @datum = Datum.all 
    render json: @datum
         
-#     data plural = datum
     end
 
 
