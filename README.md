@@ -7,7 +7,7 @@
 
 **Motivation**
 
-  After may Delayed flight, bad foods, Air Traffic strickes, Covid-19 and all.
+  After many Delayed flight, bad foods, Air Traffic strickes, Covid-19 and all.
   I though in a perfect world,  How awesome would it be to be able to keep track of your own flight, including creating your own name, email, Position/ Occupation, so no more *Biscoff cookies*    for you because your an executive. 
   ![](https://media.giphy.com/media/3ohs7MjHP1A0b4YV8I/giphy.gif)
 
